@@ -1,0 +1,14 @@
+{
+    "name": "image_recog_bot",
+    "version": "1.0.0",
+    "description": "Terrible Caption Bot",
+    "main": "bot.js",
+    "author": "Chris J",
+    "dependencies": {
+        "captionbot.js": "^2.0.0",
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "discord.js": "^12.5.1",
+        "https": "^1.0.0",
+        "winston": "^3.3.3"
+    }
+}
